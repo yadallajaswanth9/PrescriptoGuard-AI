@@ -1,0 +1,9 @@
+{
+  "patient_id": "12345",
+  "name": "Rajesh Kumar",
+  "age": 45,
+  "allergies": ["Penicillin", "Sulfa Drugs"],
+  "chronic_conditions": ["Kidney Disease", "Type 2 Diabetes"],
+  "insurance_provider": "HDFC Ergo",
+  "insurance_tier": "Basic"
+}

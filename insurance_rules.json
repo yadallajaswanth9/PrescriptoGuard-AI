@@ -1,0 +1,8 @@
+{
+  "HDFC Ergo": {
+    "MRI_rules": "MRI is NOT approved as a first step. Requires X-Ray and 2 weeks physical therapy first.",
+    "drug_tier": "Only generic drugs approved. Branded drugs (like Crocin, Augmentin) are rejected.",
+    "diabetes_rules": "Insulin pumps are only approved for Type 1 Diabetes. Type 2 Diabetes patients must use standard Metformin pills first.",
+    "blood_tests": "Standard blood tests (CBC, Lipid) are fully approved with no restrictions."
+  }
+}
